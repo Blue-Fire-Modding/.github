@@ -1,7 +1,5 @@
-🙋‍♀️ Hello! This is an organisation dedicateed to the modding of Blue Fire!
+This is an organisation dedicateed to the modding of Blue Fire!
 Helpful links:
-[Discord]
-[Modding guide]
+[Discord](discord.gg/bluefire)
+[Modding guide](bananaturtlesandwich.github.io/Blue-Fire-Modding-Guide/)
 🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
